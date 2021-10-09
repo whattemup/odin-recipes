@@ -33,7 +33,7 @@ h3 p {
  display: block;
  margin: auto;
  text-align: center;
- padding-auto: 25px;
+ padding-left: 25px;
  padding-top: 20px;
  padding-bottom: 20px;
 }
@@ -45,13 +45,13 @@ h3 {
  border-radius: 50%;
  display: block;
  margin: auto;
- padding-auto: 25px;
+ padding-left: 25px;
  padding-top: 20px;
  padding-bottom: 20px;
 }
 
 h3 ul {
- padding-auto: 250px;
+ padding-left: 250px;
  padding-top: 30px;
  padding-bottom: 30px;
 }
@@ -82,7 +82,7 @@ footer  {
 }
 
 ul{
- padding-auto: 115px;
+ padding-left: 115px;
  padding-top: 30px;
  padding-bottom: 30px;
 }
