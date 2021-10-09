@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ background-repeat: no-repeat;
+}
+
+h1 {
+background-color: black;
+text-align: center;
+width: 300px;
+height: auto;
+border-radius: 50%;
+color: white;
+position: relative;
+left: 800px;
+}
+
+.img {
+ width: 500px;
+ height: auto;
+ border-radius: 50%;
+ align-self: inherit;
+ position: relative;
+ left: 700px;
+}
+
+h3 {
+ background-color: white;
+ width: 500px;
+ height: auto;
+ border-radius: 50%;
+ text-align: center;
+ position: relative;
+ left: 700px;
+}
