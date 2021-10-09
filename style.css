@@ -5,6 +5,28 @@ body {
  background-repeat: no-repeat;
 }
 
-p {
-background-color: hotpink;
+h1 {
+background-color: black;
+text-align: center;
+width: 300px;
+height: auto;
+border-radius: 50%;
+color: white;
+}
+
+.img {
+ width: 500px;
+ height: auto;
+ border-radius: 50%;
+ align-self: inherit;
+}
+
+h3 {
+ background-color: white;
+ width: 500px;
+ height: auto;
+ border-radius: 50%;
+ text-align: center;
+
+
 }
