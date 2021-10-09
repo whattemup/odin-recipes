@@ -9,11 +9,12 @@ h1 {
 background-color: black;
 text-align: center;
 width: 300px;
-height: auto;
+height: 50px;
 border-radius: 50%;
 color: white;
 display: block;
 margin: auto;
+
 }
 
 .img {
@@ -28,9 +29,18 @@ margin: auto;
 h3 {
  background-color: white;
  width: 500px;
- height: auto;
+ height: 50px;
  border-radius: 50%;
  text-align: center;
  display: block;
  margin: auto;
 }
+
+p {
+ padding-top: 5px;
+}
+
+.class {
+ padding-top: 50px;
+}
+
