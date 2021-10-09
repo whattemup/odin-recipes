@@ -12,6 +12,8 @@ width: 300px;
 height: auto;
 border-radius: 50%;
 color: white;
+position: relative;
+left: 800px;
 }
 
 .img {
@@ -19,6 +21,8 @@ color: white;
  height: auto;
  border-radius: 50%;
  align-self: inherit;
+ position: relative;
+ left: 700px;
 }
 
 h3 {
@@ -27,6 +31,6 @@ h3 {
  height: auto;
  border-radius: 50%;
  text-align: center;
-
-
+ position: relative;
+ left: 700px;
 }
