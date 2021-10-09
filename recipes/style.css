@@ -22,7 +22,7 @@ margin: auto;
  height: auto;
  border-radius: 50%;
  display:block;
- margin: left;
+ margin: auto;
 }
 
 h3 p {
@@ -31,9 +31,9 @@ h3 p {
  height: auto;
  border-radius: 50%;
  display: block;
- margin: left;
+ margin: auto;
  text-align: center;
- padding-left: 25px;
+ padding-auto: 25px;
  padding-top: 20px;
  padding-bottom: 20px;
 }
@@ -44,14 +44,14 @@ h3 {
  height: auto;
  border-radius: 50%;
  display: block;
- margin: left;
- padding-left: 25px;
+ margin: auto;
+ padding-auto: 25px;
  padding-top: 20px;
  padding-bottom: 20px;
 }
 
 h3 ul {
- padding-left: 250px;
+ padding-auto: 250px;
  padding-top: 30px;
  padding-bottom: 30px;
 }
@@ -62,13 +62,13 @@ h3 ul {
  height: 500px;
  border-radius: 50%;
  display: block;
- margin: left;
+ margin: auto;
 }
 
 ol {
  width: 600px;
 display: block;
-margin: left;
+margin: auto;
 padding-top: 100px;
 }
 
@@ -78,11 +78,11 @@ footer  {
  height: 150px;
  border-radius: 50%;
  display: block;
- margin: left;
+ margin: auto;
 }
 
 ul{
- padding-left: 115px;
+ padding-auto: 115px;
  padding-top: 30px;
  padding-bottom: 30px;
 }
