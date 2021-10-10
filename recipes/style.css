@@ -18,28 +18,15 @@ margin: auto;
 padding-top: 1px;
 }
 
-.img {
- width: 800px;
+.img-cheesecake {
+ width: 700px;
  height: auto;
  border-radius: 50%;
  display:block;
  margin: auto;
 }
 
-h3 p {
- background-color: white;
- width: 800px;
- height: auto;
- border-radius: 50%;
- display: block;
- margin: auto;
- text-align: center;
- padding-left: 25px;
- padding-top: 20px;
- padding-bottom: 20px;
-}
-
-h3 {
+.capirotada {
  background-color: white;
  width: 800px;
  height: auto;
@@ -49,12 +36,6 @@ h3 {
  padding-left: 25px;
  padding-top: 20px;
  padding-bottom: 20px;
-}
-
-h3 ul {
- padding-left: 250px;
- padding-top: 30px;
- padding-bottom: 30px;
 }
 
 .class {
@@ -66,13 +47,6 @@ h3 ul {
  margin: auto;
 }
 
-ol {
-width: 600px;
-display: block;
-margin: auto;
-padding-top: 100px;
-}
-
 footer  {
  background-color: white;
  width: 350px;
@@ -82,9 +56,30 @@ footer  {
  margin: auto;
 }
 
-ul{
- padding-left: 115px;
- padding-top: 30px;
+.cheesecake {
+ background-color: white;
+ width: 700px;
+ height: auto;
+ border-radius: 5%;
+ display: block;
+ margin: auto;
+ text-align: left;
+ padding-left: 50px;
+ padding-top: 50px;
+ padding-right: 50px;
  padding-bottom: 30px;
-}
+} 
 
+.footer {
+ background-color: white;
+ width: 250px;
+ height: auto;
+ border-radius: 50%;
+ display: block;
+ margin: auto;
+ text-align: left;
+ padding-left: 50px;
+ padding-top: 10px;
+ padding-right: 10px;
+ padding-bottom: 10px;
+}
